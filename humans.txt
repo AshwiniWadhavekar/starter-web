@@ -2,7 +2,7 @@
 # The humans responsible & technology colophon
 
 # TEAM
-
+	Ashwini pashwini2001@yahoo.com	@ash
     <name> -- <role> -- <twitter>
 
 # THANKS
